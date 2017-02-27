@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Footer aligned to bottom -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/footer"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_alignParentBottom="true"
+android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        >
+
+        <Button
+            android:id="@+id/btnRegisterFooter"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:text="@string/title_register"
+            android:background="@drawable/button_style"
+            android:textColor="@color/green"
+            android:textSize="15sp"/>
+
+
+     <!--   <Button
+            android:id="@+id/btnRecordsFooter"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="@string/btnViewLabel"
+            android:background="@drawable/button_style"
+            android:textColor="@color/green"
+            android:textSize="12dp" />
+
+        <Button
+            android:id="@+id/btnSummaryFooter"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="@string/btnSummaryLabel"
+            android:background="@drawable/button_style"
+            android:textColor="@color/green"
+            android:textSize="12dp" />-->
+
+        <Button
+            android:textStyle="bold"
+            android:id="@+id/btnHomeFooter"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/btnHomeLabel"
+            android:background="@drawable/button_style"
+            android:textColor="@color/green"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+</RelativeLayout>

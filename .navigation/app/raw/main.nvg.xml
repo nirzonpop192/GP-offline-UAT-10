@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.Register"/>
+      <point      
+        x = "4910"      
+        y = "2564"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.summary_sub.SummaryServiceBaseCriteria"/>
+      <point      
+        x = "4848"      
+        y = "2845"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.summary_sub.Summary"/>
+      <point      
+        x = "459"      
+        y = "-202"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.service_sub.ServiceRecordDetails"/>
+      <point      
+        x = "3507"      
+        y = "1683"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.RegisterLiberia"/>
+      <point      
+        x = "-397"      
+        y = "2962"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.CardRequest"/>
+      <point      
+        x = "5160"      
+        y = "3492"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.assign_program.mchn.AssignChildenUnder2"/>
+      <point      
+        x = "-85"      
+        y = "1488"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.summary_sub.ViewRecordDetail"/>
+      <point      
+        x = "3983"      
+        y = "2650"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.register_sub.RegisterMember"/>
+      <point      
+        x = "3718"      
+        y = "2712"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.assign_program.mchn.AssignLactatingMother"/>
+      <point      
+        x = "3289"      
+        y = "2611"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.MapActivity"/>
+      <point      
+        x = "2470"      
+        y = "2120"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.summary_sub.SummaryAssignBaseCriteria"/>
+      <point      
+        x = "1956"      
+        y = "3881"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.assign_program.mchn.AssignChildAbove2"/>
+      <point      
+        x = "4185"      
+        y = "1558"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.MainActivity"/>
+      <point      
+        x = "950"      
+        y = "3905"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.assign_program.mchn.AssignPregnantWomen"/>
+      <point      
+        x = "1150"      
+        y = "2770"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.AllSummaryActivity"/>
+      <point      
+        x = "1200"      
+        y = "2820"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.AssignActivity"/>
+      <point      
+        x = "1250"      
+        y = "2870"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.summary_sub.SummaryAssignCriteria"/>
+      <point      
+        x = "1300"      
+        y = "2920"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.graduation_sub.GraduationUpdate"/>
+      <point      
+        x = "1350"      
+        y = "2970"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.Graduation"/>
+      <point      
+        x = "1400"      
+        y = "3020"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.LoginActivity"/>
+      <point      
+        x = "1450"      
+        y = "3070"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.summary_sub.MW_RegisterViewRecord"/>
+      <point      
+        x = "2065"      
+        y = "85"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.ServiceActivity"/>
+      <point      
+        x = "1550"      
+        y = "3170"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.siddiquinoor.restclient.activity.sub_activity.summary_sub.SummaryServiceCriteria"/>
+      <point      
+        x = "1500"      
+        y = "3120"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

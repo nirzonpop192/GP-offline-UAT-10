@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProject\\Jan-2017\\offline import\\UAT-10\\GPath\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProject\\Jan-2017\\offline import\\UAT-10\\GPath\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProject\\Jan-2017\\GPath\\GPath-LOC-02040215\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProject\\Jan-2017\\GPath\\GPath-LOC-02040215\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]
